@@ -15,5 +15,5 @@ Dei um toque final na impressao do terminal usando ASCI para destacar cores.
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/BrunoHoinacki/DesafioControleFluxo/blob/main/img/Captura%20de%20Tela%20(31).png?raw=true)
 
